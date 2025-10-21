@@ -27,3 +27,6 @@ if (byeABerger) {
         console.log( availableAmount , ", In this price we Do not have any Berger for you sorry Sir Have a nice day" )
     }
 }
+else{
+    console.log("Thanks for visiting , Have a nice day ")
+}
